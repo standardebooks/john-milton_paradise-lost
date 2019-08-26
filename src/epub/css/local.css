@@ -2,15 +2,17 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 [epub|type~="preamble"] > header p{
-	margin-left: 2em;
-	margin-right: 2em;
 	text-align: center;
 	font-variant: small-caps;
 	font-style: normal;
 }
 
-[epub|type~="preamble"]  p{
+[epub|type~="preamble"] p{
 	font-style: italic;
+}
+
+[epub|type~="preamble"]{
+	margin-bottom: 3em;
 }
 
 [epub|type~="z3998:poem"] p{
