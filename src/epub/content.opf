@@ -75,7 +75,7 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="producer-1">David Grigg</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Grigg, David</meta>
-		<meta property="se:url.homepage" refines="#producer-1">https://rightword.com.au/david.php</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://thegriggs.org/david/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
