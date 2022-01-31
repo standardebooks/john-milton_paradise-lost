@@ -2,9 +2,9 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 [epub|type~="preamble"] > header p{
-	text-align: center;
-	font-variant: small-caps;
 	font-style: normal;
+	font-variant: small-caps;
+	text-align: center;
 }
 
 [epub|type~="preamble"] p{
