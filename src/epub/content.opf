@@ -59,7 +59,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/000634929</dc:source>
 		<meta property="se:production-notes">This work was transcribed in its entirety by the producer from scans of the edition edited by A. W. Verity and published in 1910.</meta>
 		<meta property="se:word-count">82669</meta>
-		<meta property="se:reading-ease.flesch">47.9</meta>
+		<meta property="se:reading-ease.flesch">48.2</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Paradise_Lost</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-milton_paradise-lost</meta>
 		<dc:creator id="author">John Milton</dc:creator>
