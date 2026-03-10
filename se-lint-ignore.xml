@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="book-10.xhtml">
 		<ignore code="t-033">
+			<line>1055</line>
 			<reason>Dash is a matter of prose style.</reason>
 		</ignore>
 	</file>
