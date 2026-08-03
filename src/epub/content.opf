@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/john-milton/paradise-lost</dc:identifier>
 		<dc:date>2019-08-26T21:08:27Z</dc:date>
@@ -51,12 +51,12 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<meta id="collection-2" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<dc:description id="description">A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A dramatic imagining in blank verse of the rebellion of Satan against God, Satan’s overthrow, and the Fall of Man.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;Paradise Lost&lt;/i&gt; is an epic poem written by the Puritan English poet &lt;a href="https://standardebooks.org/ebooks/john-milton"&gt;John Milton&lt;/a&gt; between 1658 and 1663, and published in 1667. This is a period of English history which encompasses the end of Oliver Cromwell’s Commonwealth and the restoration of the monarchy in 1660.&lt;/p&gt;
 			&lt;p&gt;Perhaps reflecting some of his country’s turmoil during Milton’s life, &lt;i&gt;Paradise Lost&lt;/i&gt; deals with revolution in Heaven by Satan and his followers against God, their defeat and banishment to Hell, and their subsequent plotting of revenge, leading ultimately to Satan beguiling Eve in Paradise to taste the fruit of the Tree of Knowledge against the explicit command of God. Milton’s vivid and poetic description of these events is both dramatic and compelling. The work gained swift acceptance and has always remained a popular and important part of English literature.&lt;/p&gt;
 			&lt;p&gt;Originally published in ten books, a second edition was published in 1674 arranged into twelve books, the form in which it appears here. This Standard Ebooks edition is based on a 1910 edition edited by &lt;abbr&gt;A. W.&lt;/abbr&gt; Verity.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://catalog.hathitrust.org/Record/000634929</dc:source>
 		<meta property="schema:wordCount">82188</meta>
