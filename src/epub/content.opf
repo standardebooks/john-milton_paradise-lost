@@ -30,10 +30,10 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Paradise Lost</dc:title>
 		<meta property="file-as" refines="#title">Paradise Lost</meta>
-		<dc:subject id="subject-1">Fall of man -- Poetry</dc:subject>
-		<dc:subject id="subject-2">Adam (Biblical figure) -- Poetry</dc:subject>
-		<dc:subject id="subject-3">Eve (Biblical figure) -- Poetry</dc:subject>
-		<dc:subject id="subject-4">Bible. Genesis -- History of Biblical events -- Poetry</dc:subject>
+		<dc:subject id="subject-1">Fall of man--Poetry</dc:subject>
+		<dc:subject id="subject-2">Adam (Biblical figure)--Poetry</dc:subject>
+		<dc:subject id="subject-3">Eve (Biblical figure)--Poetry</dc:subject>
+		<dc:subject id="subject-4">Bible. Genesis--History of Biblical events--Poetry</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008103487</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
